@@ -27,4 +27,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ios-ipa
-          path: path: build/ios/iphoneos/testtt.ipa
+          path: build/ios/iphoneos/testtt.ipa
